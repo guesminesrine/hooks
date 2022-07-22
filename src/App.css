@@ -1,0 +1,8 @@
+
+section {
+  display: flex;
+  background-color: #65a883;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 50px;
+}
